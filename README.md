@@ -1,6 +1,6 @@
 ## vue-github
 
-a front-end UI of GitHub Pull Request review prediction using vue.js
+a front-end UI of GitHub Pull Request review prediction and reivewer recommendation system using vue.js and iview
 
 
 ## Getting Started
@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Deployment
 
-Clone the project to your machine using git
+Clone the project to your machine using git, and type:
 
 ```
 $ cd vue-github
@@ -22,6 +22,13 @@ if you want to pack the whole project, type:
 ```npm run build```
 
 and the packed resource will generated in ```/dist```
+
+the appearence likes:
+
+![](file:////Users/dimera/Downloads/列表.jpg) 
+
+![](file:////Users/dimera/Downloads/rec_info.jpg) 
+
 
 ## Author
 
