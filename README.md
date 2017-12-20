@@ -26,7 +26,7 @@ and the packed resource will generated in ```/dist```
 the appearence likes:
 
  ![image](https://raw.githubusercontent.com/ayonel/vue-github/master/static/sample/list.jpg)
- ![image](https://github.com/ayonel/vue-github/blob/master/static/sample/rec_info.jpg)
+ ![image](https://raw.githubusercontent.com/ayonel/vue-github/master/static/sample/rec_info.jpg)
 
 ## Author
 

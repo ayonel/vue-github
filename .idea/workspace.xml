@@ -51,8 +51,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="279">
-                <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <first_editor relative-caret-position="230">
+                <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -213,7 +213,7 @@
       <workItem from="1513438342505" duration="7129000" />
       <workItem from="1513771422796" duration="1847000" />
       <workItem from="1513777067614" duration="434000" />
-      <workItem from="1513777521211" duration="1187000" />
+      <workItem from="1513777521211" duration="1329000" />
     </task>
     <task id="LOCAL-00001" summary="upload to github">
       <created>1513771787412</created>
@@ -257,11 +257,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513778627383</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add run sample jpg">
+      <created>1513778773871</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1513778773871</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61739000" />
+    <option name="totallyTimeSpent" value="61881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="953" extended-state="0" />
@@ -299,7 +306,8 @@
     <MESSAGE value="add readme.md" />
     <MESSAGE value="update readme.md" />
     <MESSAGE value="add run sample" />
-    <option name="LAST_COMMIT_MESSAGE" value="add run sample" />
+    <MESSAGE value="add run sample jpg" />
+    <option name="LAST_COMMIT_MESSAGE" value="add run sample jpg" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -643,8 +651,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="279">
-            <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <first_editor relative-caret-position="230">
+            <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />
