@@ -25,10 +25,8 @@ and the packed resource will generated in ```/dist```
 
 the appearence likes:
 
-![](file:////Users/dimera/Downloads/列表.jpg) 
-
-![](file:////Users/dimera/Downloads/rec_info.jpg) 
-
+ ![image](http://note.youdao.com/favicon.ico)
+ ![image](http://note.youdao.com/favicon.ico)
 
 ## Author
 
