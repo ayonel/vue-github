@@ -49,10 +49,10 @@
 
         <h3>预测评审结果:</h3>
         <Row>
-          <Button v-if="pull['predictMerged']" type="success" size="large">
+          <Button v-if="pull['predict_merged']" type="success" size="large">
             接受
           </Button>
-          <Button v-else="pull['predictMerged']" type="error" size="large">
+          <Button v-else="pull['predict_merged']" type="error" size="large">
             拒绝
           </Button>
             <span></span>
@@ -125,8 +125,9 @@
       getPullinfo(org, number) {
         this.$http.get('/api/predict/'+org+'/'+number).then(response => {
             this.pull = response.data
+            console.log(this.pull)
             this.pull['created_at']=this.$utils.formatTimeStamp(this.pull['created_at'])
-            if (this.pull['merged'] == this.pull['predictMerged'])
+            if (this.pull['merged'] == this.pull['predict_merged'])
               this.ACC = 100
 
             this.show = true
