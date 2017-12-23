@@ -52,3 +52,10 @@
     },
   }
 </script>
+<style scoped>
+  .layout-menu-left {
+    background: #464c5b;
+    height: calc(100vh - 60px)  ;
+    /* height: 100vh; */
+  }
+</style>

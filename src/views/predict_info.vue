@@ -117,7 +117,8 @@
     },
     created () {
       this.handleSpinCustom()
-      this.from_url = '/predict/'+this.$route.params.org+'/'+this.$route.params.page
+      // this.from_url = '/predict/'+this.$route.params.org+'/'+this.$route.params.page
+      this.from_url = `/predict${this.$route.params.org}/${this.$route.params.page}`
       this.getPullinfo(this.$route.params.org, this.$route.params.number);
     },
 
